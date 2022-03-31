@@ -1,7 +1,2 @@
-# learn_n_dev
-learning examples
+# Python Learning 
 
-Hello World
-
-
-Test2
