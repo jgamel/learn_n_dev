@@ -8,10 +8,10 @@ Applied examples using python through google colabs
 Regression/Modeling/Forecasting
 
 1.	Modeling:
-  * Linear Regression Python Example – Linear regression example in python using numpy and sklearn.linear_model packages.
-  * Lasso Regression Example sting – Lasso regression example in python using [Lasso] sklearn.linear_model. 
-  * Multiple Linear Regression
-  * Polynomial Regression
+     * Linear Regression Python Example – Linear regression example in python using numpy and sklearn.linear_model packages.
+     * Lasso Regression Example sting – Lasso regression example in python using [Lasso] sklearn.linear_model. 
+     * Multiple Linear Regression
+     * Polynomial Regression
 2.	Logistic Regression:
 a.	Logistic Regression With Maximum Likelihood Estimation
 b.	Implement Logistic Regression From Scratch in Python
