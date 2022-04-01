@@ -5,17 +5,17 @@ The repo contains a list of branches that use applied data science and data mini
 ## Python 
 Applied examples using python through google colabs
 
-Regression/Modeling/Forecasting
+**Regression/Modeling/Forecasting**
 
 1.	Modeling:
-     * Linear Regression Python Example – Linear regression example in python using numpy and sklearn.linear_model packages.
-     * Lasso Regression Example sting – Lasso regression example in python using [Lasso] sklearn.linear_model. 
-     * Multiple Linear Regression
-     * Polynomial Regression
+     1. [Linear Regression Python](https://github.com/jgamel/learn_n_dev/blob/python_modeling_forecasting/linear_regression_basic_example.ipynb) – Linear regression example in python using numpy and sklearn.linear_model packages.
+     2. [Lasso Regression](https://github.com/jgamel/learn_n_dev/blob/python_modeling_forecasting/Lasso_Regression_Example.ipynb) – Lasso regression example in python using [Lasso] sklearn.linear_model. 
+     3. [Multiple Linear Regression](https://github.com/jgamel/learn_n_dev/blob/python_ds_examples/multiple_linear_regression_example.ipynb)
+     4. [Polynomial Regression](https://github.com/jgamel/learn_n_dev/blob/python_ds_examples/polynomial_regression_example.ipynb)
 2.	Logistic Regression:
-a.	Logistic Regression With Maximum Likelihood Estimation
-b.	Implement Logistic Regression From Scratch in Python
-c.	Introduction to Information Entropy
+     1.	[Logistic Regression With Maximum Likelihood Estimation](https://github.com/jgamel/learn_n_dev/blob/python_modeling_forecasting/Logistic_Regression_with_MLE.ipynb)
+     2. [Implement Logistic Regression From Scratch in Python](https://github.com/jgamel/learn_n_dev/blob/python_modeling_forecasting/Logistic_Regression_From_Scratch.ipynb)
+     3. [Introduction to Information Entropy](https://github.com/jgamel/learn_n_dev/blob/python_modeling_forecasting/information_Entropy.ipynb)
 3.	Time Series Forecasting:
 a.	Time Series Forecasting scikit learn Example
 b.	Time Series Analysis Example
