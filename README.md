@@ -44,6 +44,7 @@ Applied examples using python through google colabs
 6.	[Sparse Matrices for Machine Learning](https://github.com/jgamel/learn_n_dev/blob/python_data_prep_cleaning/sparse_matices_for_ML.ipynb)
 7.	[How to Model Human Activity From Smartphone Data - Activity Recognition](https://github.com/jgamel/learn_n_dev/blob/python_data_prep_cleaning/Data_Prep_Histograms_Example.ipynb)
 8.	[Upload a File from PC to Google Colabs](https://github.com/jgamel/learn_n_dev/blob/python_data_prep_cleaning/Upload_A_File_From_PC.ipynb)
+9.	[Using Regex To Parse & Mine Text Data](https://github.com/jgamel/learn_n_dev/blob/python_data_prep_cleaning/regex_example.ipynb)
 
 **AI, Machine Learning**
 1.	Neural Network
