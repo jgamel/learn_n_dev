@@ -72,6 +72,6 @@ Applied examples using python through google colabs
 2.	[PySpark on Google Colab Load CSV Example](https://github.com/jgamel/learn_n_dev/blob/PySpark/pyspark_loading_csv.ipynb)
 3.	[Pyspark Running a Regression Example](https://github.com/jgamel/learn_n_dev/blob/PySpark/Linear_Regression_Pyspark_Example.ipynb)
 
-
-
-
+**Marketing**
+1.   A/B Testing
+     1. [A/B Testing Step-by-step Example 1](https://github.com/jgamel/learn_n_dev/blob/marketing_examples/AB_Testing_Python_Example.ipynb)
