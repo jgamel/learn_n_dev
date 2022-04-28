@@ -75,3 +75,14 @@ Applied examples using python through google colabs
 **Marketing**
 1.   A/B Testing
      1. [A/B Testing Step-by-step Example 1](https://github.com/jgamel/learn_n_dev/blob/marketing_examples/AB_Testing_Python_Example.ipynb)
+
+**Simulation**
+1.   [Simulating a Parallel Queueing System With SimPy](https://github.com/jgamel/learn_n_dev/blob/simulation_examples/SimPy_Parallel_Queueing_Example.ipynb)
+2.   [Simpy Bank Renege Example](https://github.com/jgamel/learn_n_dev/blob/simulation_examples/Simpy_Bank_Renege_Example.ipynb)
+3.   [Simpy Carwash Example](https://github.com/jgamel/learn_n_dev/blob/simulation_examples/Simpy_Carwash_Example.ipynb)
+4.   [Simpy Event Latency Example](https://github.com/jgamel/learn_n_dev/blob/simulation_examples/Simpy_Event_latency_example.ipynb)
+5.   [Simpy Gas Station Refueling Example](https://github.com/jgamel/learn_n_dev/blob/simulation_examples/Simpy_Gas_Station_Refueling_Example.ipynb)
+6.   [Simpy Machine Shop Example](https://github.com/jgamel/learn_n_dev/blob/simulation_examples/Simpy_Machine_Shop_Example.ipynb)
+7.   [Simpy Movie Renege Example](https://github.com/jgamel/learn_n_dev/blob/simulation_examples/Simpy_Movie_Renege_Example.ipynb)
+8.   [Simpy Process Communication Example](https://github.com/jgamel/learn_n_dev/blob/simulation_examples/Simpy_Process_Communication_Example.ipynb)
+9.   [SimPy Coffee Shop Example](https://github.com/jgamel/learn_n_dev/blob/simulation_examples/simpy_simulation_coffee_shop_example.ipynb)
