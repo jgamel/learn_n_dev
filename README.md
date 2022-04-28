@@ -19,6 +19,8 @@ Applied examples using python through google colabs
 3.	Time Series Forecasting:
      1. [Time Series Forecasting scikit learn Example](https://github.com/jgamel/learn_n_dev/blob/python_ds_examples/time_series_forecasting_scikit_learn.ipynb)
      2. [Time Series Analysis Example](https://github.com/jgamel/learn_n_dev/blob/python_ds_examples/Time_Series_Analysis_Example.ipynb)
+     3. [Time Series Forecasting With Prophet in Python Example](https://github.com/jgamel/learn_n_dev/blob/python_modeling_forecasting/Time_Series_Forecasting_Prophet_Python_Example.ipynb)
+     4. [Avocado Price Forecasting using Facebook Prophet](https://github.com/jgamel/learn_n_dev/blob/python_modeling_forecasting/Forecast_Avocado_Price_Prophet_Example.ipynb)
 4.	Validation & Testing:
      1. [Train Test Split](https://github.com/jgamel/learn_n_dev/blob/python_ds_examples/train_test_split_example.ipynb)
      2. [Kfold Validation](https://github.com/jgamel/learn_n_dev/blob/python_modeling_forecasting/kfold_validation_example.ipynb)  
